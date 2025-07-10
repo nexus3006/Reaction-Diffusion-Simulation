@@ -1,1 +1,2 @@
 # Reaction-Diffusion-Simulation
+We are developing a Python based reaction-diffusion framework to study chemical pattern formation with 4 varying parameters. To this end, we have implemented efficient numerical solvers for accurate computation of steady states and linear stability analysis. We have also automated detailed dispersion relation evaluation over 400 spatial modes to identify Turing instability regions.
